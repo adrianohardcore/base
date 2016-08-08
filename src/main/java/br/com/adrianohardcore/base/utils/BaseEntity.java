@@ -17,7 +17,7 @@ import br.com.adrianohardcore.base.user.UserEntity;
 @MappedSuperclass
 public abstract class BaseEntity<Long extends Serializable> implements Serializable {
     
-    /**
+    /**    
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;

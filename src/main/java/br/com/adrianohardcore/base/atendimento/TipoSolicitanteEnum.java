@@ -6,7 +6,7 @@ public enum TipoSolicitanteEnum {
     FORNECEDOR("Fornecedor", 2),
     FUNCIONARIO("Funcionario", 3),
     PROFISSIONAL("Profissional", 4);
-
+    
     private String descricao;
     private int idTipoSolicitante;
     

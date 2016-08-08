@@ -15,7 +15,7 @@ import br.com.adrianohardcore.base.utils.BaseEntity;
 @Table(name = "atendimento")
 @AttributeOverride(name = "id", column = @Column(name = "id_atendimento"))
 public class AtendimentoEntity extends BaseEntity<Long>  {
-
+   
     private static final long serialVersionUID = 201602010251L;
 
     @Column(name = "id_tiposolicitante", nullable = false)

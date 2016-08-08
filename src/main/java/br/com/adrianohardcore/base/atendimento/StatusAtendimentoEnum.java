@@ -8,7 +8,7 @@ public enum  StatusAtendimentoEnum {
     RESPONDIDOATENDENTE("Respondido pelo atendente ", 4),
     CONCLUIDOSOLICITANTE("Concluído pelo solicitante", 5),
     CONCLUIDOATENDENTE("Concluído pelo atendente", 6);
-
+    
     private String descricao;
     private int idStatusAtendimento;
     

@@ -35,7 +35,7 @@ public class UserService extends GenericService<UserEntity, Long> {
 		
 	
 		return super.insert(user);
-	}
+	}    
 
 	@Override
 	public void update(@RequestBody UserEntity user) {

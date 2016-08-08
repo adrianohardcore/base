@@ -41,7 +41,7 @@ public class UserRepositoryTest extends AbstractTest {
 		if (LOGGER.isInfoEnabled()) {
 			LOGGER.info("Test FindAll(): " + users);
 		}
-	}
+	}     
 	
 	@Test
 	public void save(){

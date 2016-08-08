@@ -19,7 +19,7 @@ public class MotivoEntity extends BaseEntity<Long>  {
     @NotNull
     @Size(min = 10, max = 60)
     @Column(name = "descricao", length = 60, nullable = false)
-    private String descricao;
+    private String descricao;       
 
     public MotivoEntity() {
     }

@@ -15,7 +15,7 @@ import br.com.adrianohardcore.base.utils.BaseEntity;
 public class CategoriaEntity extends BaseEntity<Long> {
 
     private static final long serialVersionUID = 201602010251L;
-
+   
     @NotNull
     @Size(min = 10, max = 60)
     @Column(name = "descricao", length = 60, nullable = false)
