@@ -1,0 +1,6 @@
+org/wpattern/test/mutrack/simple/repositories/UserPermissionRepositoryTest.class
+org/wpattern/test/mutrack/simple/repositories/PermissionRepositoryTest.class
+org/wpattern/test/mutrack/simple/utils/AppContextTest.class
+org/wpattern/test/mutrack/simple/utils/AbstractTest.class
+org/wpattern/test/mutrack/simple/repositories/UserRepositoryTest.class
+org/wpattern/test/mutrack/simple/repositories/PackageeRepositoryTest.class
